@@ -7,7 +7,7 @@ The model is trained using **Random Forest Classifier** and deployed using **Str
 ---
 
 ## 🚀 Live App
-(Add Streamlit link here after deployment)
+https://credit-scoring-model-jtknwbdgzzv2cjhtbwlbmg.streamlit.app/
 
 ---
 
